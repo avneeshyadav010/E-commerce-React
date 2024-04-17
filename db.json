@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "Avneesh Yadav",
+      "email": "avi1@gmail.com",
+      "password": "Test",
+      "id": 1713373437238
+    }
+  ],
+  "posts": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
